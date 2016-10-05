@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LoginPractice</string>
+
+    <!--회원가입-->
+    <string name="register_id_duplicated">사용 중인 아이디가 있습니다.</string>
+    <string name="register_id_unduplicated">사용 가능한 아이디입니다.</string>
+    <string name="register_name_duplicated">사용 중인 닉네임이 있습니다.</string>
+    <string name="register_name_unduplicated">사용 가능한 닉네임입니다.</string>
+    <string name="register_done">회원가입 완료</string>
+    <string name="register_check_name">이름을 확인해주세요.</string>
+    <string name="register_check_email">이메일을 확인해주세요.</string>
+    <string name="register_check_id">아이디 중복 확인을 해주세요.</string>
+    <string name="register_check_pw">비밀번호를 확인해주세요.</string>
+
+    <!--에러 관련-->
+    <string name="error_invalid_id">아이디는 네 글자 이상이어야 합니다.</string>
+    <string name="error_invalid_name">이름은 두 글자 이상이어야 합니다.</string>
+    <string name="error_invalid_email">이메일 양식이 아닙니다.</string>
+    <string name="error_invalid_password">6~20자의 영문, 숫자 조합이 아닙니다.</string>
+    <string name="error_incorrect_password">비밀번호가 일치하지 않습니다.</string>
+    <string name="error_field_required">필수 입력 사항입니다.</string>
+    <string name="error_result_null">검색 결과가 없습니다.</string>
+
+</resources>
